@@ -1,0 +1,37 @@
+{
+    "header": {
+        "logo": {
+            "img": "./assets/WHITE.png",
+            "alt": "Kabeiricorp",
+            "link": "/"
+        },
+        "location": {
+            "label": "New York",
+            "zipCode": ""
+        },
+        "navigation": [
+            {
+                "label": "Blog",
+                "link": "/404",
+                "type": "link"
+            },
+            {
+                "label": "More",
+                "link": "/404",
+                "type": "link",
+                "submenu": [
+                    {
+                        "label": "Blog",
+                        "link": "/404",
+                        "type": "link"
+                    }
+                ]
+            },
+            {
+                "label": "Login",
+                "link": "/404",
+                "type": "button"
+            }
+        ]
+    }
+}

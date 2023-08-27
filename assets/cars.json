@@ -1,0 +1,5745 @@
+{
+    "models": {
+        "Acura": {
+            "current": [
+                [
+                    "ILX"
+                ],
+                [
+                    "MDX"
+                ],
+                [
+                    "NSX"
+                ],
+                [
+                    "RDX"
+                ],
+                [
+                    "RLX"
+                ],
+                [
+                    "TLX"
+                ]
+            ],
+            "older": [
+                [
+                    "CL"
+                ],
+                [
+                    "CSX"
+                ],
+                [
+                    "EL"
+                ],
+                [
+                    "Integra"
+                ],
+                [
+                    "Legend"
+                ],
+                [
+                    "RL"
+                ],
+                [
+                    "RSX"
+                ],
+                [
+                    "SLX"
+                ],
+                [
+                    "TL"
+                ],
+                [
+                    "TSX"
+                ],
+                [
+                    "Vigor"
+                ],
+                [
+                    "ZDX"
+                ]
+            ]
+        },
+        "Alfa+Romeo": {
+            "current": [
+                [
+                    "4C"
+                ],
+                [
+                    "Giulia"
+                ],
+                [
+                    "Stelvio"
+                ]
+            ],
+            "older": [
+                [
+                    "164"
+                ],
+                [
+                    "8C Competizone",
+                    "8C-Competizone"
+                ],
+                [
+                    "8C Spider",
+                    "8C-Spider"
+                ],
+                [
+                    "GTV"
+                ],
+                [
+                    "Milano"
+                ],
+                [
+                    "Spider"
+                ]
+            ]
+        },
+        "Audi": {
+            "current": [
+                [
+                    "A3"
+                ],
+                [
+                    "A4"
+                ],
+                [
+                    "A5"
+                ],
+                [
+                    "A6"
+                ],
+                [
+                    "A7"
+                ],
+                [
+                    "A8"
+                ],
+                [
+                    "Allroad"
+                ],
+                [
+                    "Q3"
+                ],
+                [
+                    "Q4 e-tron",
+                    "Q4-e-tron"
+                ],
+                [
+                    "Q5"
+                ],
+                [
+                    "Q7"
+                ],
+                [
+                    "Q8"
+                ],
+                [
+                    "R8"
+                ],
+                [
+                    "RS Q8",
+                    "RS-Q8"
+                ],
+                [
+                    "RS3"
+                ],
+                [
+                    "RS4"
+                ],
+                [
+                    "RS5"
+                ],
+                [
+                    "RS6"
+                ],
+                [
+                    "RS7"
+                ],
+                [
+                    "S3"
+                ],
+                [
+                    "S4"
+                ],
+                [
+                    "S5"
+                ],
+                [
+                    "S6"
+                ],
+                [
+                    "S7"
+                ],
+                [
+                    "S8"
+                ],
+                [
+                    "SQ5"
+                ],
+                [
+                    "SQ7"
+                ],
+                [
+                    "SQ8"
+                ],
+                [
+                    "TT"
+                ],
+                [
+                    "TT RS",
+                    "TT-RS"
+                ],
+                [
+                    "TTS"
+                ],
+                [
+                    "e-tron"
+                ],
+                [
+                    "e-tron GT",
+                    "e-tron-GT"
+                ],
+                [
+                    "e-tron S",
+                    "e-tron-S"
+                ]
+            ],
+            "older": [
+                [
+                    "100"
+                ],
+                [
+                    "200"
+                ],
+                [
+                    "4000"
+                ],
+                [
+                    "5000"
+                ],
+                [
+                    "80"
+                ],
+                [
+                    "90"
+                ],
+                [
+                    "Cabriolet"
+                ],
+                [
+                    "Coupe GT",
+                    "Coupe-GT"
+                ],
+                [
+                    "Quattro"
+                ]
+            ]
+        },
+        "BMW": {
+            "current": [
+                [
+                    "2 Series",
+                    "2-Series"
+                ],
+                [
+                    "3 Series",
+                    "3-Series"
+                ],
+                [
+                    "4 Series",
+                    "4-Series"
+                ],
+                [
+                    "5 Series",
+                    "5-Series"
+                ],
+                [
+                    "6 Series",
+                    "6-Series"
+                ],
+                [
+                    "7 Series",
+                    "7-Series"
+                ],
+                [
+                    "8 Series",
+                    "8-Series"
+                ],
+                [
+                    "M2"
+                ],
+                [
+                    "M2 CS",
+                    "M2-CS"
+                ],
+                [
+                    "M2 Competition",
+                    "M2-Competition"
+                ],
+                [
+                    "M3"
+                ],
+                [
+                    "M4"
+                ],
+                [
+                    "M5"
+                ],
+                [
+                    "M6"
+                ],
+                [
+                    "M8"
+                ],
+                [
+                    "X1"
+                ],
+                [
+                    "X2"
+                ],
+                [
+                    "X3"
+                ],
+                [
+                    "X3 M",
+                    "X3-M"
+                ],
+                [
+                    "X4"
+                ],
+                [
+                    "X4 M",
+                    "X4-M"
+                ],
+                [
+                    "X5"
+                ],
+                [
+                    "X5 M",
+                    "X5-M"
+                ],
+                [
+                    "X6"
+                ],
+                [
+                    "X6 M",
+                    "X6-M"
+                ],
+                [
+                    "X7"
+                ],
+                [
+                    "Z4"
+                ],
+                [
+                    "i3"
+                ],
+                [
+                    "i4"
+                ],
+                [
+                    "i8"
+                ],
+                [
+                    "iX"
+                ]
+            ],
+            "older": [
+                [
+                    "1 Series",
+                    "1-Series"
+                ],
+                [
+                    "Alpina"
+                ],
+                [
+                    "L7"
+                ],
+                [
+                    "M"
+                ],
+                [
+                    "M Roadster",
+                    "M-Roadster"
+                ],
+                [
+                    "Z3"
+                ],
+                [
+                    "Z4M"
+                ],
+                [
+                    "Z8"
+                ]
+            ]
+        },
+        "Buick": {
+            "current": [
+                [
+                    "Cascada"
+                ],
+                [
+                    "Enclave"
+                ],
+                [
+                    "Encore"
+                ],
+                [
+                    "Encore GX",
+                    "Encore-GX"
+                ],
+                [
+                    "Envision"
+                ],
+                [
+                    "LaCrosse"
+                ],
+                [
+                    "Regal"
+                ]
+            ],
+            "older": [
+                [
+                    "Allure"
+                ],
+                [
+                    "Century"
+                ],
+                [
+                    "Electra"
+                ],
+                [
+                    "LeSabre"
+                ],
+                [
+                    "Lucerne"
+                ],
+                [
+                    "Park Avenue",
+                    "Park-Avenue"
+                ],
+                [
+                    "Rainier"
+                ],
+                [
+                    "Reatta"
+                ],
+                [
+                    "Rendezvous"
+                ],
+                [
+                    "Riviera"
+                ],
+                [
+                    "Roadmaster"
+                ],
+                [
+                    "Skyhawk"
+                ],
+                [
+                    "Skylark"
+                ],
+                [
+                    "Somerset"
+                ],
+                [
+                    "Terraza"
+                ],
+                [
+                    "Verano"
+                ]
+            ]
+        },
+        "Cadillac": {
+            "current": [
+                [
+                    "ATS"
+                ],
+                [
+                    "CT4"
+                ],
+                [
+                    "CT5"
+                ],
+                [
+                    "CT6"
+                ],
+                [
+                    "CTS"
+                ],
+                [
+                    "Escalade"
+                ],
+                [
+                    "Lyriq"
+                ],
+                [
+                    "XT4"
+                ],
+                [
+                    "XT5"
+                ],
+                [
+                    "XT6"
+                ],
+                [
+                    "XTS"
+                ]
+            ],
+            "older": [
+                [
+                    "Allante"
+                ],
+                [
+                    "Brougham"
+                ],
+                [
+                    "Catera"
+                ],
+                [
+                    "Cimarron"
+                ],
+                [
+                    "DTS"
+                ],
+                [
+                    "DeVille"
+                ],
+                [
+                    "ELR"
+                ],
+                [
+                    "Eldorado"
+                ],
+                [
+                    "Fleetwood"
+                ],
+                [
+                    "SRX"
+                ],
+                [
+                    "STS"
+                ],
+                [
+                    "Seville"
+                ],
+                [
+                    "Sixty Special",
+                    "Sixty-Special"
+                ],
+                [
+                    "XLR"
+                ]
+            ]
+        },
+        "Chevrolet": {
+            "current": [
+                [
+                    "Blazer"
+                ],
+                [
+                    "Bolt EUV",
+                    "Bolt-EUV"
+                ],
+                [
+                    "Bolt EV",
+                    "Bolt-EV"
+                ],
+                [
+                    "Camaro"
+                ],
+                [
+                    "City Express",
+                    "City-Express"
+                ],
+                [
+                    "Colorado"
+                ],
+                [
+                    "Corvette"
+                ],
+                [
+                    "Cruze"
+                ],
+                [
+                    "Equinox"
+                ],
+                [
+                    "Express"
+                ],
+                [
+                    "Impala"
+                ],
+                [
+                    "Malibu"
+                ],
+                [
+                    "Silverado 1500",
+                    "Silverado-1500"
+                ],
+                [
+                    "Silverado 2500HD",
+                    "Silverado-2500HD"
+                ],
+                [
+                    "Silverado 3500HD",
+                    "Silverado-3500HD"
+                ],
+                [
+                    "Sonic"
+                ],
+                [
+                    "Spark"
+                ],
+                [
+                    "Suburban"
+                ],
+                [
+                    "Tahoe"
+                ],
+                [
+                    "TrailBlazer"
+                ],
+                [
+                    "Traverse"
+                ],
+                [
+                    "Trax"
+                ],
+                [
+                    "Volt"
+                ]
+            ],
+            "older": [
+                [
+                    "Astro"
+                ],
+                [
+                    "Avalanche 1500",
+                    "Avalanche-1500"
+                ],
+                [
+                    "Avalanche 2500",
+                    "Avalanche-2500"
+                ],
+                [
+                    "Aveo"
+                ],
+                [
+                    "Beretta"
+                ],
+                [
+                    "C/K 10",
+                    "C-K-10"
+                ],
+                [
+                    "C/K 1500",
+                    "C-K-1500"
+                ],
+                [
+                    "C/K 20",
+                    "C-K-20"
+                ],
+                [
+                    "C/K 2500",
+                    "C-K-2500"
+                ],
+                [
+                    "C/K 30",
+                    "C-K-30"
+                ],
+                [
+                    "C/K 3500",
+                    "C-K-3500"
+                ],
+                [
+                    "Caprice"
+                ],
+                [
+                    "Captiva Sport",
+                    "Captiva-Sport"
+                ],
+                [
+                    "Cavalier"
+                ],
+                [
+                    "Celebrity"
+                ],
+                [
+                    "Chevette"
+                ],
+                [
+                    "Citation"
+                ],
+                [
+                    "Cobalt"
+                ],
+                [
+                    "Corsica"
+                ],
+                [
+                    "D30"
+                ],
+                [
+                    "El Camino",
+                    "El-Camino"
+                ],
+                [
+                    "G-Series"
+                ],
+                [
+                    "HHR"
+                ],
+                [
+                    "HHR Panel",
+                    "HHR-Panel"
+                ],
+                [
+                    "Lumina"
+                ],
+                [
+                    "Luv"
+                ],
+                [
+                    "Malibu Classic",
+                    "Malibu-Classic"
+                ],
+                [
+                    "Malibu Maxx",
+                    "Malibu-Maxx"
+                ],
+                [
+                    "Metro"
+                ],
+                [
+                    "Monte Carlo",
+                    "Monte-Carlo"
+                ],
+                [
+                    "Nova"
+                ],
+                [
+                    "Optra"
+                ],
+                [
+                    "Orlando"
+                ],
+                [
+                    "P20"
+                ],
+                [
+                    "P30"
+                ],
+                [
+                    "Prizm"
+                ],
+                [
+                    "R/V 10",
+                    "R-V-10"
+                ],
+                [
+                    "R/V 20",
+                    "R-V-20"
+                ],
+                [
+                    "R/V 30",
+                    "R-V-30"
+                ],
+                [
+                    "R/V 3500",
+                    "R-V-3500"
+                ],
+                [
+                    "S-10"
+                ],
+                [
+                    "SS"
+                ],
+                [
+                    "SSR"
+                ],
+                [
+                    "Silverado 1500HD",
+                    "Silverado-1500HD"
+                ],
+                [
+                    "Silverado 2500",
+                    "Silverado-2500"
+                ],
+                [
+                    "Silverado 3500",
+                    "Silverado-3500"
+                ],
+                [
+                    "Silverado Hybrid",
+                    "Silverado-Hybrid"
+                ],
+                [
+                    "Spark EV",
+                    "Spark-EV"
+                ],
+                [
+                    "Spectrum"
+                ],
+                [
+                    "Sprint"
+                ],
+                [
+                    "Suburban 10",
+                    "Suburban-10"
+                ],
+                [
+                    "Suburban 1500",
+                    "Suburban-1500"
+                ],
+                [
+                    "Suburban 20",
+                    "Suburban-20"
+                ],
+                [
+                    "Suburban 2500",
+                    "Suburban-2500"
+                ],
+                [
+                    "Tracker"
+                ],
+                [
+                    "Uplander"
+                ],
+                [
+                    "Venture"
+                ]
+            ]
+        },
+        "Chrysler": {
+            "current": [
+                [
+                    "300"
+                ],
+                [
+                    "Pacifica"
+                ],
+                [
+                    "Voyager"
+                ]
+            ],
+            "older": [
+                [
+                    "200"
+                ],
+                [
+                    "300M"
+                ],
+                [
+                    "Aspen"
+                ],
+                [
+                    "Cirrus"
+                ],
+                [
+                    "Concorde"
+                ],
+                [
+                    "Conquest"
+                ],
+                [
+                    "Cordoba"
+                ],
+                [
+                    "Crossfire"
+                ],
+                [
+                    "E Class",
+                    "E-Class"
+                ],
+                [
+                    "Executive"
+                ],
+                [
+                    "Fifth Avenue",
+                    "Fifth-Avenue"
+                ],
+                [
+                    "Grand Voyager",
+                    "Grand-Voyager"
+                ],
+                [
+                    "Imperial"
+                ],
+                [
+                    "Intrepid"
+                ],
+                [
+                    "LHS"
+                ],
+                [
+                    "Laser"
+                ],
+                [
+                    "LeBaron"
+                ],
+                [
+                    "Neon"
+                ],
+                [
+                    "New Yorker",
+                    "New-Yorker"
+                ],
+                [
+                    "PT Cruiser",
+                    "PT-Cruiser"
+                ],
+                [
+                    "Prowler"
+                ],
+                [
+                    "Sebring"
+                ],
+                [
+                    "TC"
+                ],
+                [
+                    "Town & Country",
+                    "Town-And-Country"
+                ]
+            ]
+        },
+        "Dodge": {
+            "current": [
+                [
+                    "Challenger"
+                ],
+                [
+                    "Charger"
+                ],
+                [
+                    "Durango"
+                ],
+                [
+                    "Grand Caravan",
+                    "Grand-Caravan"
+                ],
+                [
+                    "Journey"
+                ]
+            ],
+            "older": [
+                [
+                    "400"
+                ],
+                [
+                    "600"
+                ],
+                [
+                    "Aries"
+                ],
+                [
+                    "Avenger"
+                ],
+                [
+                    "Caliber"
+                ],
+                [
+                    "Caravan"
+                ],
+                [
+                    "Colt"
+                ],
+                [
+                    "Dakota"
+                ],
+                [
+                    "Dart"
+                ],
+                [
+                    "Daytona"
+                ],
+                [
+                    "Diplomat"
+                ],
+                [
+                    "Dynasty"
+                ],
+                [
+                    "Intrepid"
+                ],
+                [
+                    "Magnum"
+                ],
+                [
+                    "Mini Ram",
+                    "Mini-Ram"
+                ],
+                [
+                    "Mirada"
+                ],
+                [
+                    "Monaco"
+                ],
+                [
+                    "Neon"
+                ],
+                [
+                    "Nitro"
+                ],
+                [
+                    "Omni"
+                ],
+                [
+                    "Power Ram",
+                    "Power-Ram"
+                ],
+                [
+                    "Power Ram 50",
+                    "Power-Ram-50"
+                ],
+                [
+                    "Raider"
+                ],
+                [
+                    "Ram 100",
+                    "Ram-100"
+                ],
+                [
+                    "Ram 150",
+                    "Ram-150"
+                ],
+                [
+                    "Ram 1500",
+                    "Ram-1500"
+                ],
+                [
+                    "Ram 250",
+                    "Ram-250"
+                ],
+                [
+                    "Ram 2500",
+                    "Ram-2500"
+                ],
+                [
+                    "Ram 350",
+                    "Ram-350"
+                ],
+                [
+                    "Ram 3500",
+                    "Ram-3500"
+                ],
+                [
+                    "Ram 4500",
+                    "Ram-4500"
+                ],
+                [
+                    "Ram 50",
+                    "Ram-50"
+                ],
+                [
+                    "Ram 5500",
+                    "Ram-5500"
+                ],
+                [
+                    "Ram Van",
+                    "Ram-Van"
+                ],
+                [
+                    "Ram Wagon",
+                    "Ram-Wagon"
+                ],
+                [
+                    "Ramcharger"
+                ],
+                [
+                    "Rampage"
+                ],
+                [
+                    "SRT Viper",
+                    "SRT-Viper"
+                ],
+                [
+                    "Shadow"
+                ],
+                [
+                    "Shelby"
+                ],
+                [
+                    "Spirit"
+                ],
+                [
+                    "Sprinter"
+                ],
+                [
+                    "Stealth"
+                ],
+                [
+                    "Stratus"
+                ],
+                [
+                    "Viper"
+                ],
+                [
+                    "W100"
+                ]
+            ]
+        },
+        "Fiat": {
+            "current": [
+                [
+                    "124 Spider",
+                    "124-Spider"
+                ],
+                [
+                    "500"
+                ],
+                [
+                    "500L"
+                ],
+                [
+                    "500X"
+                ],
+                [
+                    "500e"
+                ]
+            ],
+            "older": [
+                [
+                    "2000"
+                ],
+                [
+                    "Pininfarina"
+                ]
+            ]
+        },
+        "Ford": {
+            "current": [
+                [
+                    "Bronco"
+                ],
+                [
+                    "Bronco Sport",
+                    "Bronco-Sport"
+                ],
+                [
+                    "C-Max"
+                ],
+                [
+                    "E-Transit"
+                ],
+                [
+                    "EcoSport"
+                ],
+                [
+                    "Econoline"
+                ],
+                [
+                    "Edge"
+                ],
+                [
+                    "Escape"
+                ],
+                [
+                    "Expedition"
+                ],
+                [
+                    "Expedition MAX",
+                    "Expedition-MAX"
+                ],
+                [
+                    "Explorer"
+                ],
+                [
+                    "F-150"
+                ],
+                [
+                    "F-150 Lightning",
+                    "F-150-Lightning"
+                ],
+                [
+                    "F-250"
+                ],
+                [
+                    "F-350"
+                ],
+                [
+                    "F-450"
+                ],
+                [
+                    "F-550"
+                ],
+                [
+                    "Fiesta"
+                ],
+                [
+                    "Flex"
+                ],
+                [
+                    "Focus"
+                ],
+                [
+                    "Fusion"
+                ],
+                [
+                    "Maverick"
+                ],
+                [
+                    "Mustang"
+                ],
+                [
+                    "Mustang Mach-E",
+                    "Mustang-Mach-E"
+                ],
+                [
+                    "Ranger"
+                ],
+                [
+                    "Taurus"
+                ],
+                [
+                    "Transit"
+                ],
+                [
+                    "Transit Connect",
+                    "Transit-Connect"
+                ]
+            ],
+            "older": [
+                [
+                    "Aerostar"
+                ],
+                [
+                    "Aspire"
+                ],
+                [
+                    "Bronco II",
+                    "Bronco-II"
+                ],
+                [
+                    "Cobra"
+                ],
+                [
+                    "Contour"
+                ],
+                [
+                    "Courier"
+                ],
+                [
+                    "Crown Victoria",
+                    "Crown-Victoria"
+                ],
+                [
+                    "EXP"
+                ],
+                [
+                    "Escort"
+                ],
+                [
+                    "Excursion"
+                ],
+                [
+                    "Expedition EL",
+                    "Expedition-EL"
+                ],
+                [
+                    "Explorer Sport Trac",
+                    "Explorer-Sport-Trac"
+                ],
+                [
+                    "F-100"
+                ],
+                [
+                    "F-59"
+                ],
+                [
+                    "F-Super Duty",
+                    "F-Super-Duty"
+                ],
+                [
+                    "Fairmont"
+                ],
+                [
+                    "Festiva"
+                ],
+                [
+                    "Five Hundred",
+                    "Five-Hundred"
+                ],
+                [
+                    "Freestar"
+                ],
+                [
+                    "Freestyle"
+                ],
+                [
+                    "GT"
+                ],
+                [
+                    "LTD"
+                ],
+                [
+                    "Probe"
+                ],
+                [
+                    "Taurus X",
+                    "Taurus-X"
+                ],
+                [
+                    "Tempo"
+                ],
+                [
+                    "Thunderbird"
+                ],
+                [
+                    "Windstar"
+                ]
+            ]
+        },
+        "GMC": {
+            "current": [
+                [
+                    "Acadia"
+                ],
+                [
+                    "Canyon"
+                ],
+                [
+                    "Hummer EV",
+                    "Hummer-EV"
+                ],
+                [
+                    "Savana"
+                ],
+                [
+                    "Sierra 1500",
+                    "Sierra-1500"
+                ],
+                [
+                    "Sierra 2500HD",
+                    "Sierra-2500HD"
+                ],
+                [
+                    "Sierra 3500HD",
+                    "Sierra-3500HD"
+                ],
+                [
+                    "Terrain"
+                ],
+                [
+                    "Yukon"
+                ],
+                [
+                    "Yukon XL",
+                    "Yukon-XL"
+                ]
+            ],
+            "older": [
+                [
+                    "1000"
+                ],
+                [
+                    "C/K 1500",
+                    "C-K-1500"
+                ],
+                [
+                    "C/K 2500",
+                    "C-K-2500"
+                ],
+                [
+                    "C/K 3500",
+                    "C-K-3500"
+                ],
+                [
+                    "Caballero"
+                ],
+                [
+                    "Envoy"
+                ],
+                [
+                    "Jimmy"
+                ],
+                [
+                    "P3500"
+                ],
+                [
+                    "R/V 3500",
+                    "R-V-3500"
+                ],
+                [
+                    "Rally"
+                ],
+                [
+                    "S-15"
+                ],
+                [
+                    "S-15 Jimmy",
+                    "S-15-Jimmy"
+                ],
+                [
+                    "Safari"
+                ],
+                [
+                    "Sierra 1500 Hybrid",
+                    "Sierra-1500-Hybrid"
+                ],
+                [
+                    "Sierra 1500HD",
+                    "Sierra-1500HD"
+                ],
+                [
+                    "Sierra 2500",
+                    "Sierra-2500"
+                ],
+                [
+                    "Sierra 3500",
+                    "Sierra-3500"
+                ],
+                [
+                    "Sonoma"
+                ],
+                [
+                    "Suburban"
+                ],
+                [
+                    "Typhoon"
+                ],
+                [
+                    "Vandura"
+                ]
+            ]
+        },
+        "Genesis": {
+            "current": [
+                [
+                    "G70"
+                ],
+                [
+                    "G80"
+                ],
+                [
+                    "G90"
+                ],
+                [
+                    "GV60"
+                ],
+                [
+                    "GV70"
+                ],
+                [
+                    "GV80"
+                ]
+            ],
+            "older": []
+        },
+        "Honda": {
+            "current": [
+                [
+                    "Accord"
+                ],
+                [
+                    "CR-V"
+                ],
+                [
+                    "Civic"
+                ],
+                [
+                    "Clarity"
+                ],
+                [
+                    "Fit"
+                ],
+                [
+                    "HR-V"
+                ],
+                [
+                    "Insight"
+                ],
+                [
+                    "Odyssey"
+                ],
+                [
+                    "Passport"
+                ],
+                [
+                    "Pilot"
+                ],
+                [
+                    "Ridgeline"
+                ]
+            ],
+            "older": [
+                [
+                    "Accord Crosstour",
+                    "Accord-Crosstour"
+                ],
+                [
+                    "CR-Z"
+                ],
+                [
+                    "CRX"
+                ],
+                [
+                    "City"
+                ],
+                [
+                    "Element"
+                ],
+                [
+                    "Prelude"
+                ],
+                [
+                    "S2000"
+                ]
+            ]
+        },
+        "Hyundai": {
+            "current": [
+                [
+                    "Accent"
+                ],
+                [
+                    "Elantra"
+                ],
+                [
+                    "Elantra N",
+                    "Elantra-N"
+                ],
+                [
+                    "Ioniq"
+                ],
+                [
+                    "Ioniq 5",
+                    "Ioniq-5"
+                ],
+                [
+                    "Kona"
+                ],
+                [
+                    "Kona N",
+                    "Kona-N"
+                ],
+                [
+                    "Nexo"
+                ],
+                [
+                    "Palisade"
+                ],
+                [
+                    "Santa Cruz",
+                    "Santa-Cruz"
+                ],
+                [
+                    "Santa Fe",
+                    "Santa-Fe"
+                ],
+                [
+                    "Santa Fe XL",
+                    "Santa-Fe-XL"
+                ],
+                [
+                    "Sonata"
+                ],
+                [
+                    "Tucson"
+                ],
+                [
+                    "Veloster"
+                ],
+                [
+                    "Veloster N",
+                    "Veloster-N"
+                ],
+                [
+                    "Venue"
+                ]
+            ],
+            "older": [
+                [
+                    "Azera"
+                ],
+                [
+                    "Entourage"
+                ],
+                [
+                    "Equus"
+                ],
+                [
+                    "Excel"
+                ],
+                [
+                    "Genesis"
+                ],
+                [
+                    "Scoupe"
+                ],
+                [
+                    "Tiburon"
+                ],
+                [
+                    "Veracruz"
+                ],
+                [
+                    "XG300"
+                ],
+                [
+                    "XG350"
+                ]
+            ]
+        },
+        "Infiniti": {
+            "current": [
+                [
+                    "Q50"
+                ],
+                [
+                    "Q60"
+                ],
+                [
+                    "Q70"
+                ],
+                [
+                    "QX30"
+                ],
+                [
+                    "QX50"
+                ],
+                [
+                    "QX55"
+                ],
+                [
+                    "QX60"
+                ],
+                [
+                    "QX80"
+                ]
+            ],
+            "older": [
+                [
+                    "EX35"
+                ],
+                [
+                    "EX37"
+                ],
+                [
+                    "FX35"
+                ],
+                [
+                    "FX37"
+                ],
+                [
+                    "FX45"
+                ],
+                [
+                    "FX50"
+                ],
+                [
+                    "G20"
+                ],
+                [
+                    "G25"
+                ],
+                [
+                    "G35"
+                ],
+                [
+                    "G37"
+                ],
+                [
+                    "I30"
+                ],
+                [
+                    "I35"
+                ],
+                [
+                    "J30"
+                ],
+                [
+                    "JX35"
+                ],
+                [
+                    "M30"
+                ],
+                [
+                    "M35"
+                ],
+                [
+                    "M37"
+                ],
+                [
+                    "M45"
+                ],
+                [
+                    "M56"
+                ],
+                [
+                    "Q40"
+                ],
+                [
+                    "Q45"
+                ],
+                [
+                    "QX4"
+                ],
+                [
+                    "QX56"
+                ],
+                [
+                    "QX70"
+                ]
+            ]
+        },
+        "Jaguar": {
+            "current": [
+                [
+                    "E-Pace"
+                ],
+                [
+                    "F-Pace"
+                ],
+                [
+                    "F-Type"
+                ],
+                [
+                    "I-Pace"
+                ],
+                [
+                    "XE"
+                ],
+                [
+                    "XF"
+                ],
+                [
+                    "XJ"
+                ]
+            ],
+            "older": [
+                [
+                    "S-Type"
+                ],
+                [
+                    "X-Type"
+                ],
+                [
+                    "XK"
+                ]
+            ]
+        },
+        "Jeep": {
+            "current": [
+                [
+                    "Cherokee"
+                ],
+                [
+                    "Compass"
+                ],
+                [
+                    "Gladiator"
+                ],
+                [
+                    "Grand Cherokee",
+                    "Grand-Cherokee"
+                ],
+                [
+                    "Grand Cherokee L",
+                    "Grand-Cherokee-L"
+                ],
+                [
+                    "Grand Wagoneer",
+                    "Grand-Wagoneer"
+                ],
+                [
+                    "Renegade"
+                ],
+                [
+                    "Wagoneer"
+                ],
+                [
+                    "Wrangler"
+                ]
+            ],
+            "older": [
+                [
+                    "CJ"
+                ],
+                [
+                    "Comanche"
+                ],
+                [
+                    "Commander"
+                ],
+                [
+                    "J10"
+                ],
+                [
+                    "J20"
+                ],
+                [
+                    "Liberty"
+                ],
+                [
+                    "Patriot"
+                ],
+                [
+                    "Scrambler"
+                ]
+            ]
+        },
+        "Kia": {
+            "current": [
+                [
+                    "Cadenza"
+                ],
+                [
+                    "Carnival"
+                ],
+                [
+                    "EV6"
+                ],
+                [
+                    "Forte"
+                ],
+                [
+                    "Forte5"
+                ],
+                [
+                    "K5"
+                ],
+                [
+                    "K900"
+                ],
+                [
+                    "Niro"
+                ],
+                [
+                    "Niro EV",
+                    "Niro-EV"
+                ],
+                [
+                    "Optima"
+                ],
+                [
+                    "Rio"
+                ],
+                [
+                    "Sedona"
+                ],
+                [
+                    "Seltos"
+                ],
+                [
+                    "Sorento"
+                ],
+                [
+                    "Soul"
+                ],
+                [
+                    "Soul EV",
+                    "Soul-EV"
+                ],
+                [
+                    "Sportage"
+                ],
+                [
+                    "Stinger"
+                ],
+                [
+                    "Telluride"
+                ]
+            ],
+            "older": [
+                [
+                    "Amanti"
+                ],
+                [
+                    "Borrego"
+                ],
+                [
+                    "Rio5"
+                ],
+                [
+                    "Rondo"
+                ],
+                [
+                    "Sephia"
+                ],
+                [
+                    "Spectra"
+                ],
+                [
+                    "Spectra5"
+                ]
+            ]
+        },
+        "Land+Rover": {
+            "current": [
+                [
+                    "Defender"
+                ],
+                [
+                    "Discovery"
+                ],
+                [
+                    "Discovery Sport",
+                    "Discovery-Sport"
+                ],
+                [
+                    "Range Rover",
+                    "Range-Rover"
+                ],
+                [
+                    "Range Rover Evoque",
+                    "Range-Rover-Evoque"
+                ],
+                [
+                    "Range Rover Sport",
+                    "Range-Rover-Sport"
+                ],
+                [
+                    "Range Rover Velar",
+                    "Range-Rover-Velar"
+                ]
+            ],
+            "older": [
+                [
+                    "Freelander"
+                ],
+                [
+                    "LR2"
+                ],
+                [
+                    "LR3"
+                ],
+                [
+                    "LR4"
+                ]
+            ]
+        },
+        "Lexus": {
+            "current": [
+                [
+                    "ES"
+                ],
+                [
+                    "GS"
+                ],
+                [
+                    "GX"
+                ],
+                [
+                    "IS"
+                ],
+                [
+                    "LC"
+                ],
+                [
+                    "LS"
+                ],
+                [
+                    "LX"
+                ],
+                [
+                    "NX"
+                ],
+                [
+                    "RC"
+                ],
+                [
+                    "RX"
+                ],
+                [
+                    "UX"
+                ]
+            ],
+            "older": [
+                [
+                    "CT"
+                ],
+                [
+                    "HS"
+                ],
+                [
+                    "LFA"
+                ],
+                [
+                    "SC"
+                ]
+            ]
+        },
+        "Lincoln": {
+            "current": [
+                [
+                    "Aviator"
+                ],
+                [
+                    "Continental"
+                ],
+                [
+                    "Corsair"
+                ],
+                [
+                    "MKC"
+                ],
+                [
+                    "MKT"
+                ],
+                [
+                    "MKX"
+                ],
+                [
+                    "MKZ"
+                ],
+                [
+                    "Nautilus"
+                ],
+                [
+                    "Navigator"
+                ],
+                [
+                    "Navigator L",
+                    "Navigator-L"
+                ]
+            ],
+            "older": [
+                [
+                    "Blackwood"
+                ],
+                [
+                    "LS"
+                ],
+                [
+                    "MKS"
+                ],
+                [
+                    "Mark LT",
+                    "Mark-LT"
+                ],
+                [
+                    "Mark Series",
+                    "Mark-Series"
+                ],
+                [
+                    "Town Car",
+                    "Town-Car"
+                ],
+                [
+                    "Zephyr"
+                ]
+            ]
+        },
+        "Mazda": {
+            "current": [
+                [
+                    "CX-3"
+                ],
+                [
+                    "CX-30"
+                ],
+                [
+                    "CX-5"
+                ],
+                [
+                    "CX-50"
+                ],
+                [
+                    "CX-9"
+                ],
+                [
+                    "MX-30"
+                ],
+                [
+                    "Mazda3"
+                ],
+                [
+                    "Mazda6"
+                ],
+                [
+                    "Miata"
+                ]
+            ],
+            "older": [
+                [
+                    "323"
+                ],
+                [
+                    "626"
+                ],
+                [
+                    "929"
+                ],
+                [
+                    "B-Series"
+                ],
+                [
+                    "CX-7"
+                ],
+                [
+                    "GLC"
+                ],
+                [
+                    "MAZDASPEED MX-5 Miata",
+                    "MAZDASPEED-MX-5-Miata"
+                ],
+                [
+                    "MAZDASPEED3"
+                ],
+                [
+                    "MAZDASPEED6"
+                ],
+                [
+                    "MPV"
+                ],
+                [
+                    "MX-3"
+                ],
+                [
+                    "MX-6"
+                ],
+                [
+                    "Mazda2"
+                ],
+                [
+                    "Mazda5"
+                ],
+                [
+                    "Millenia"
+                ],
+                [
+                    "Navajo"
+                ],
+                [
+                    "Protege"
+                ],
+                [
+                    "RX-7"
+                ],
+                [
+                    "RX-8"
+                ],
+                [
+                    "Tribute"
+                ]
+            ]
+        },
+        "Mercedes-Benz": {
+            "current": [
+                [
+                    "A-Class"
+                ],
+                [
+                    "AMG GT",
+                    "AMG-GT"
+                ],
+                [
+                    "C"
+                ],
+                [
+                    "C-Class"
+                ],
+                [
+                    "CLA"
+                ],
+                [
+                    "CLS"
+                ],
+                [
+                    "E"
+                ],
+                [
+                    "E-Class"
+                ],
+                [
+                    "EQB"
+                ],
+                [
+                    "EQS"
+                ],
+                [
+                    "G-Class"
+                ],
+                [
+                    "GLA"
+                ],
+                [
+                    "GLB"
+                ],
+                [
+                    "GLC"
+                ],
+                [
+                    "GLE"
+                ],
+                [
+                    "GLS"
+                ],
+                [
+                    "Metris"
+                ],
+                [
+                    "S"
+                ],
+                [
+                    "S-Class"
+                ],
+                [
+                    "SL-Class"
+                ],
+                [
+                    "SLC"
+                ],
+                [
+                    "Sprinter"
+                ]
+            ],
+            "older": [
+                [
+                    "190"
+                ],
+                [
+                    "240"
+                ],
+                [
+                    "260"
+                ],
+                [
+                    "280"
+                ],
+                [
+                    "300"
+                ],
+                [
+                    "350"
+                ],
+                [
+                    "380"
+                ],
+                [
+                    "400"
+                ],
+                [
+                    "420"
+                ],
+                [
+                    "500"
+                ],
+                [
+                    "560"
+                ],
+                [
+                    "600"
+                ],
+                [
+                    "B-Class"
+                ],
+                [
+                    "CL"
+                ],
+                [
+                    "CL-Class"
+                ],
+                [
+                    "CLK"
+                ],
+                [
+                    "GL"
+                ],
+                [
+                    "GL-Class"
+                ],
+                [
+                    "GLK"
+                ],
+                [
+                    "M-Class"
+                ],
+                [
+                    "ML"
+                ],
+                [
+                    "R-Class"
+                ],
+                [
+                    "SLK"
+                ],
+                [
+                    "SLR"
+                ],
+                [
+                    "SLS AMG",
+                    "SLS-AMG"
+                ]
+            ]
+        },
+        "Mini": {
+            "current": [
+                [
+                    "Cooper"
+                ],
+                [
+                    "Cooper Clubman",
+                    "Cooper-Clubman"
+                ],
+                [
+                    "Cooper Countryman",
+                    "Cooper-Countryman"
+                ]
+            ],
+            "older": [
+                [
+                    "Cooper Coupe",
+                    "Cooper-Coupe"
+                ],
+                [
+                    "Cooper Paceman",
+                    "Cooper-Paceman"
+                ],
+                [
+                    "Cooper Roadster",
+                    "Cooper-Roadster"
+                ]
+            ]
+        },
+        "Mitsubishi": {
+            "current": [
+                [
+                    "Eclipse Cross",
+                    "Eclipse-Cross"
+                ],
+                [
+                    "Mirage"
+                ],
+                [
+                    "Mirage G4",
+                    "Mirage-G4"
+                ],
+                [
+                    "Outlander"
+                ],
+                [
+                    "Outlander Sport",
+                    "Outlander-Sport"
+                ]
+            ],
+            "older": [
+                [
+                    "3000GT"
+                ],
+                [
+                    "Cordia"
+                ],
+                [
+                    "Diamante"
+                ],
+                [
+                    "Eclipse"
+                ],
+                [
+                    "Endeavor"
+                ],
+                [
+                    "Expo"
+                ],
+                [
+                    "Galant"
+                ],
+                [
+                    "Lancer"
+                ],
+                [
+                    "Lancer Evolution",
+                    "Lancer-Evolution"
+                ],
+                [
+                    "Mighty Max",
+                    "Mighty-Max"
+                ],
+                [
+                    "Montero"
+                ],
+                [
+                    "Montero Sport",
+                    "Montero-Sport"
+                ],
+                [
+                    "Pajero"
+                ],
+                [
+                    "Precis"
+                ],
+                [
+                    "RVR"
+                ],
+                [
+                    "Raider"
+                ],
+                [
+                    "Sigma"
+                ],
+                [
+                    "Starion"
+                ],
+                [
+                    "Van"
+                ],
+                [
+                    "i-MiEV"
+                ]
+            ]
+        },
+        "Nissan": {
+            "current": [
+                [
+                    "Altima"
+                ],
+                [
+                    "Armada"
+                ],
+                [
+                    "Frontier"
+                ],
+                [
+                    "GT-R"
+                ],
+                [
+                    "Kicks"
+                ],
+                [
+                    "Leaf"
+                ],
+                [
+                    "Maxima"
+                ],
+                [
+                    "Murano"
+                ],
+                [
+                    "NV"
+                ],
+                [
+                    "NV200"
+                ],
+                [
+                    "Pathfinder"
+                ],
+                [
+                    "Rogue"
+                ],
+                [
+                    "Rogue Sport",
+                    "Rogue-Sport"
+                ],
+                [
+                    "Sentra"
+                ],
+                [
+                    "Titan"
+                ],
+                [
+                    "Titan XD",
+                    "Titan-XD"
+                ],
+                [
+                    "Versa"
+                ],
+                [
+                    "Versa Note",
+                    "Versa-Note"
+                ],
+                [
+                    "Z"
+                ]
+            ],
+            "older": [
+                [
+                    "200SX"
+                ],
+                [
+                    "240SX"
+                ],
+                [
+                    "720"
+                ],
+                [
+                    "Axxess"
+                ],
+                [
+                    "Cube"
+                ],
+                [
+                    "Juke"
+                ],
+                [
+                    "Micra"
+                ],
+                [
+                    "NX"
+                ],
+                [
+                    "Pickup"
+                ],
+                [
+                    "Pulsar"
+                ],
+                [
+                    "Qashqai"
+                ],
+                [
+                    "Quest"
+                ],
+                [
+                    "Skyline"
+                ],
+                [
+                    "Stanza"
+                ],
+                [
+                    "Van"
+                ],
+                [
+                    "X-Trail"
+                ],
+                [
+                    "Xterra"
+                ]
+            ]
+        },
+        "Porsche": {
+            "current": [
+                [
+                    "718 Boxster",
+                    "718-Boxster"
+                ],
+                [
+                    "718 Cayman",
+                    "718-Cayman"
+                ],
+                [
+                    "718 Spyder",
+                    "718-Spyder"
+                ],
+                [
+                    "911"
+                ],
+                [
+                    "Boxster"
+                ],
+                [
+                    "Cayenne"
+                ],
+                [
+                    "Cayman"
+                ],
+                [
+                    "Macan"
+                ],
+                [
+                    "Panamera"
+                ],
+                [
+                    "Taycan"
+                ]
+            ],
+            "older": [
+                [
+                    "918"
+                ],
+                [
+                    "924"
+                ],
+                [
+                    "928"
+                ],
+                [
+                    "930"
+                ],
+                [
+                    "944"
+                ],
+                [
+                    "968"
+                ],
+                [
+                    "Carrera GT",
+                    "Carrera-GT"
+                ]
+            ]
+        },
+        "Ram": {
+            "current": [
+                [
+                    "1500"
+                ],
+                [
+                    "2500"
+                ],
+                [
+                    "3500"
+                ],
+                [
+                    "4500"
+                ],
+                [
+                    "5500"
+                ],
+                [
+                    "ProMaster"
+                ],
+                [
+                    "ProMaster City",
+                    "ProMaster-City"
+                ]
+            ],
+            "older": [
+                [
+                    "C/V",
+                    "C-V"
+                ],
+                [
+                    "Dakota"
+                ]
+            ]
+        },
+        "Subaru": {
+            "current": [
+                [
+                    "Ascent"
+                ],
+                [
+                    "BRZ"
+                ],
+                [
+                    "Crosstrek"
+                ],
+                [
+                    "Forester"
+                ],
+                [
+                    "Impreza"
+                ],
+                [
+                    "Legacy"
+                ],
+                [
+                    "Outback"
+                ],
+                [
+                    "STI S209",
+                    "STI-S209"
+                ],
+                [
+                    "Solterra"
+                ],
+                [
+                    "WRX"
+                ]
+            ],
+            "older": [
+                [
+                    "Baja"
+                ],
+                [
+                    "Brat"
+                ],
+                [
+                    "DL"
+                ],
+                [
+                    "GL"
+                ],
+                [
+                    "Justy"
+                ],
+                [
+                    "Loyale"
+                ],
+                [
+                    "SVX"
+                ],
+                [
+                    "Tribeca"
+                ],
+                [
+                    "XT"
+                ],
+                [
+                    "XV Crosstrek",
+                    "XV-Crosstrek"
+                ]
+            ]
+        },
+        "Tesla": {
+            "current": [
+                [
+                    "Model 3",
+                    "Model-3"
+                ],
+                [
+                    "Model S",
+                    "Model-S"
+                ],
+                [
+                    "Model X",
+                    "Model-X"
+                ],
+                [
+                    "Model Y",
+                    "Model-Y"
+                ]
+            ],
+            "older": [
+                [
+                    "Roadster"
+                ]
+            ]
+        },
+        "Toyota": {
+            "current": [
+                [
+                    "4Runner"
+                ],
+                [
+                    "86"
+                ],
+                [
+                    "Avalon"
+                ],
+                [
+                    "C-HR"
+                ],
+                [
+                    "Camry"
+                ],
+                [
+                    "Corolla"
+                ],
+                [
+                    "Corolla Cross",
+                    "Corolla-Cross"
+                ],
+                [
+                    "Corolla iM",
+                    "Corolla-iM"
+                ],
+                [
+                    "GR Supra",
+                    "GR-Supra"
+                ],
+                [
+                    "GR86"
+                ],
+                [
+                    "Highlander"
+                ],
+                [
+                    "Land Cruiser",
+                    "Land-Cruiser"
+                ],
+                [
+                    "Mirai"
+                ],
+                [
+                    "Prius"
+                ],
+                [
+                    "Prius Prime",
+                    "Prius-Prime"
+                ],
+                [
+                    "Prius c",
+                    "Prius-c"
+                ],
+                [
+                    "RAV4"
+                ],
+                [
+                    "Sequoia"
+                ],
+                [
+                    "Sienna"
+                ],
+                [
+                    "Tacoma"
+                ],
+                [
+                    "Tundra"
+                ],
+                [
+                    "Venza"
+                ],
+                [
+                    "Yaris"
+                ],
+                [
+                    "Yaris iA",
+                    "Yaris-iA"
+                ],
+                [
+                    "bZ4X"
+                ]
+            ],
+            "older": [
+                [
+                    "Camry Solara",
+                    "Camry-Solara"
+                ],
+                [
+                    "Celica"
+                ],
+                [
+                    "Corona"
+                ],
+                [
+                    "Cressida"
+                ],
+                [
+                    "Echo"
+                ],
+                [
+                    "FJ Cruiser",
+                    "FJ-Cruiser"
+                ],
+                [
+                    "MR2"
+                ],
+                [
+                    "MR2 Spyder",
+                    "MR2-Spyder"
+                ],
+                [
+                    "Matrix"
+                ],
+                [
+                    "Paseo"
+                ],
+                [
+                    "Pickup"
+                ],
+                [
+                    "Previa"
+                ],
+                [
+                    "Prius Plug-in",
+                    "Prius-Plug-in"
+                ],
+                [
+                    "Prius v",
+                    "Prius-v"
+                ],
+                [
+                    "Supra"
+                ],
+                [
+                    "T100"
+                ],
+                [
+                    "Tercel"
+                ],
+                [
+                    "Van"
+                ]
+            ]
+        },
+        "Volkswagen": {
+            "current": [
+                [
+                    "Arteon"
+                ],
+                [
+                    "Atlas"
+                ],
+                [
+                    "Beetle"
+                ],
+                [
+                    "Golf"
+                ],
+                [
+                    "ID.4",
+                    "ID-4"
+                ],
+                [
+                    "Jetta"
+                ],
+                [
+                    "Passat"
+                ],
+                [
+                    "Taos"
+                ],
+                [
+                    "Tiguan"
+                ],
+                [
+                    "Transporter"
+                ],
+                [
+                    "e-Golf"
+                ]
+            ],
+            "older": [
+                [
+                    "Bora"
+                ],
+                [
+                    "CC"
+                ],
+                [
+                    "Cabrio"
+                ],
+                [
+                    "Cabriolet"
+                ],
+                [
+                    "Corrado"
+                ],
+                [
+                    "Eos"
+                ],
+                [
+                    "Eurovan"
+                ],
+                [
+                    "Fox"
+                ],
+                [
+                    "GTI"
+                ],
+                [
+                    "New Beetle",
+                    "New-Beetle"
+                ],
+                [
+                    "Phaeton"
+                ],
+                [
+                    "R32"
+                ],
+                [
+                    "Rabbit"
+                ],
+                [
+                    "Routan"
+                ],
+                [
+                    "Scirocco"
+                ],
+                [
+                    "Touareg"
+                ],
+                [
+                    "Vanagon"
+                ]
+            ]
+        },
+        "Volvo": {
+            "current": [
+                [
+                    "C40"
+                ],
+                [
+                    "S60"
+                ],
+                [
+                    "S90"
+                ],
+                [
+                    "V60"
+                ],
+                [
+                    "V90"
+                ],
+                [
+                    "XC40"
+                ],
+                [
+                    "XC60"
+                ],
+                [
+                    "XC90"
+                ]
+            ],
+            "older": [
+                [
+                    "240"
+                ],
+                [
+                    "244"
+                ],
+                [
+                    "245"
+                ],
+                [
+                    "740"
+                ],
+                [
+                    "760"
+                ],
+                [
+                    "780"
+                ],
+                [
+                    "850"
+                ],
+                [
+                    "900-Series"
+                ],
+                [
+                    "C30"
+                ],
+                [
+                    "C70"
+                ],
+                [
+                    "S40"
+                ],
+                [
+                    "S70"
+                ],
+                [
+                    "S80"
+                ],
+                [
+                    "V40"
+                ],
+                [
+                    "V50"
+                ],
+                [
+                    "V70"
+                ],
+                [
+                    "XC70"
+                ]
+            ]
+        },
+        "AM+General": {
+            "current": [],
+            "older": [
+                [
+                    "Hummer"
+                ]
+            ]
+        },
+        "American+Motors": {
+            "current": [],
+            "older": [
+                [
+                    "Concord"
+                ],
+                [
+                    "Eagle"
+                ],
+                [
+                    "J10"
+                ],
+                [
+                    "J20"
+                ],
+                [
+                    "Spirit"
+                ]
+            ]
+        },
+        "Aston+Martin": {
+            "current": [
+                [
+                    "DB11"
+                ],
+                [
+                    "DB9"
+                ],
+                [
+                    "DBX"
+                ],
+                [
+                    "Rapide S",
+                    "Rapide-S"
+                ],
+                [
+                    "V12 Vantage",
+                    "V12-Vantage"
+                ],
+                [
+                    "V8 Vantage",
+                    "V8-Vantage"
+                ],
+                [
+                    "Vanquish"
+                ],
+                [
+                    "Vantage"
+                ]
+            ],
+            "older": [
+                [
+                    "DB7"
+                ],
+                [
+                    "DB7 Vantage",
+                    "DB7-Vantage"
+                ],
+                [
+                    "DBS"
+                ],
+                [
+                    "Lagonda"
+                ],
+                [
+                    "Rapide"
+                ],
+                [
+                    "V12 Vanquish",
+                    "V12-Vanquish"
+                ],
+                [
+                    "V8"
+                ],
+                [
+                    "Virage"
+                ],
+                [
+                    "Volante"
+                ]
+            ]
+        },
+        "Avanti": {
+            "current": [],
+            "older": [
+                [
+                    "Avanti II",
+                    "Avanti-II"
+                ]
+            ]
+        },
+        "Bentley": {
+            "current": [
+                [
+                    "Bentayga"
+                ],
+                [
+                    "Continental"
+                ],
+                [
+                    "Flying Spur",
+                    "Flying-Spur"
+                ],
+                [
+                    "Mulsanne"
+                ]
+            ],
+            "older": [
+                [
+                    "Arnage"
+                ],
+                [
+                    "Azure"
+                ],
+                [
+                    "Brooklands"
+                ],
+                [
+                    "Eight"
+                ],
+                [
+                    "Turbo"
+                ]
+            ]
+        },
+        "Bugatti": {
+            "current": [
+                [
+                    "Chiron"
+                ]
+            ],
+            "older": [
+                [
+                    "Veyron"
+                ]
+            ]
+        },
+        "Daewoo": {
+            "current": [],
+            "older": [
+                [
+                    "Lanos"
+                ],
+                [
+                    "Leganza"
+                ],
+                [
+                    "Nubira"
+                ]
+            ]
+        },
+        "Daihatsu": {
+            "current": [],
+            "older": [
+                [
+                    "Charade"
+                ],
+                [
+                    "Rocky"
+                ]
+            ]
+        },
+        "Datsun": {
+            "current": [],
+            "older": [
+                [
+                    "280ZX"
+                ],
+                [
+                    "720"
+                ],
+                [
+                    "810"
+                ],
+                [
+                    "Maxima"
+                ]
+            ]
+        },
+        "Delorean": {
+            "current": [],
+            "older": [
+                [
+                    "DMC 12",
+                    "DMC-12"
+                ]
+            ]
+        },
+        "Eagle": {
+            "current": [],
+            "older": [
+                [
+                    "Premier"
+                ],
+                [
+                    "Summit"
+                ],
+                [
+                    "Talon"
+                ],
+                [
+                    "Vision"
+                ]
+            ]
+        },
+        "Ferrari": {
+            "current": [
+                [
+                    "458"
+                ],
+                [
+                    "488"
+                ],
+                [
+                    "812 GTS",
+                    "812-GTS"
+                ],
+                [
+                    "812 Superfast",
+                    "812-Superfast"
+                ],
+                [
+                    "California"
+                ],
+                [
+                    "F12"
+                ],
+                [
+                    "F8 Spider",
+                    "F8-Spider"
+                ],
+                [
+                    "F8 Tributo",
+                    "F8-Tributo"
+                ],
+                [
+                    "FF"
+                ],
+                [
+                    "GTC4Lusso"
+                ],
+                [
+                    "Portofino"
+                ],
+                [
+                    "Roma"
+                ],
+                [
+                    "SF90"
+                ],
+                [
+                    "SF90 Stradale",
+                    "SF90-Stradale"
+                ]
+            ],
+            "older": [
+                [
+                    "308"
+                ],
+                [
+                    "328"
+                ],
+                [
+                    "348"
+                ],
+                [
+                    "360"
+                ],
+                [
+                    "456"
+                ],
+                [
+                    "550"
+                ],
+                [
+                    "575M"
+                ],
+                [
+                    "599"
+                ],
+                [
+                    "612"
+                ],
+                [
+                    "Enzo"
+                ],
+                [
+                    "F355"
+                ],
+                [
+                    "F40"
+                ],
+                [
+                    "F430"
+                ],
+                [
+                    "F50"
+                ],
+                [
+                    "F512"
+                ],
+                [
+                    "LaFerrari"
+                ],
+                [
+                    "Mondial"
+                ],
+                [
+                    "Superamerica"
+                ],
+                [
+                    "Testarossa"
+                ]
+            ]
+        },
+        "Fisker": {
+            "current": [],
+            "older": [
+                [
+                    "Karma"
+                ]
+            ]
+        },
+        "Freightliner": {
+            "current": [],
+            "older": [
+                [
+                    "Sprinter"
+                ]
+            ]
+        },
+        "Geo": {
+            "current": [],
+            "older": [
+                [
+                    "Metro"
+                ],
+                [
+                    "Prizm"
+                ],
+                [
+                    "Spectrum"
+                ],
+                [
+                    "Storm"
+                ],
+                [
+                    "Tracker"
+                ]
+            ]
+        },
+        "Hummer": {
+            "current": [],
+            "older": [
+                [
+                    "H1"
+                ],
+                [
+                    "H2"
+                ],
+                [
+                    "H3"
+                ],
+                [
+                    "H3T"
+                ]
+            ]
+        },
+        "Isuzu": {
+            "current": [],
+            "older": [
+                [
+                    "Amigo"
+                ],
+                [
+                    "Ascender"
+                ],
+                [
+                    "Axiom"
+                ],
+                [
+                    "Hombre"
+                ],
+                [
+                    "Impulse"
+                ],
+                [
+                    "KB"
+                ],
+                [
+                    "Oasis"
+                ],
+                [
+                    "Rodeo"
+                ],
+                [
+                    "Rodeo Sport",
+                    "Rodeo-Sport"
+                ],
+                [
+                    "Stylus"
+                ],
+                [
+                    "TF"
+                ],
+                [
+                    "Trooper"
+                ],
+                [
+                    "VehiCross"
+                ],
+                [
+                    "i-Series"
+                ]
+            ]
+        },
+        "Karma": {
+            "current": [
+                [
+                    "GS-6"
+                ],
+                [
+                    "Revero"
+                ]
+            ],
+            "older": []
+        },
+        "Laforza": {
+            "current": [],
+            "older": [
+                [
+                    "Laforza"
+                ]
+            ]
+        },
+        "Lamborghini": {
+            "current": [
+                [
+                    "Aventador"
+                ],
+                [
+                    "Huracan"
+                ],
+                [
+                    "Urus"
+                ]
+            ],
+            "older": [
+                [
+                    "Countach"
+                ],
+                [
+                    "Diablo"
+                ],
+                [
+                    "Gallardo"
+                ],
+                [
+                    "Jalpa"
+                ],
+                [
+                    "LM"
+                ],
+                [
+                    "Murcielago"
+                ]
+            ]
+        },
+        "Lotus": {
+            "current": [
+                [
+                    "Evora 400",
+                    "Evora-400"
+                ],
+                [
+                    "Evora GT",
+                    "Evora-GT"
+                ]
+            ],
+            "older": [
+                [
+                    "Elan"
+                ],
+                [
+                    "Elise"
+                ],
+                [
+                    "Esprit"
+                ],
+                [
+                    "Evora"
+                ],
+                [
+                    "Exige"
+                ]
+            ]
+        },
+        "Lucid": {
+            "current": [
+                [
+                    "Air"
+                ]
+            ],
+            "older": []
+        },
+        "Maserati": {
+            "current": [
+                [
+                    "Ghibli"
+                ],
+                [
+                    "GranTurismo"
+                ],
+                [
+                    "Levante"
+                ],
+                [
+                    "MC20"
+                ],
+                [
+                    "Quattroporte"
+                ]
+            ],
+            "older": [
+                [
+                    "Biturbo"
+                ],
+                [
+                    "Coupe"
+                ],
+                [
+                    "Gran Sport",
+                    "Gran-Sport"
+                ],
+                [
+                    "Spyder"
+                ]
+            ]
+        },
+        "Maybach": {
+            "current": [],
+            "older": [
+                [
+                    "57"
+                ],
+                [
+                    "62"
+                ]
+            ]
+        },
+        "Mclaren": {
+            "current": [
+                [
+                    "540C"
+                ],
+                [
+                    "570GT"
+                ],
+                [
+                    "570S"
+                ],
+                [
+                    "600LT"
+                ],
+                [
+                    "620R"
+                ],
+                [
+                    "650S"
+                ],
+                [
+                    "675LT"
+                ],
+                [
+                    "720S"
+                ],
+                [
+                    "765LT"
+                ],
+                [
+                    "GT"
+                ],
+                [
+                    "MP4-12C"
+                ],
+                [
+                    "P1"
+                ],
+                [
+                    "Senna"
+                ]
+            ],
+            "older": []
+        },
+        "Mercury": {
+            "current": [],
+            "older": [
+                [
+                    "Capri"
+                ],
+                [
+                    "Cougar"
+                ],
+                [
+                    "Grand Marquis",
+                    "Grand-Marquis"
+                ],
+                [
+                    "Lynx"
+                ],
+                [
+                    "Marauder"
+                ],
+                [
+                    "Mariner"
+                ],
+                [
+                    "Marquis"
+                ],
+                [
+                    "Milan"
+                ],
+                [
+                    "Montego"
+                ],
+                [
+                    "Monterey"
+                ],
+                [
+                    "Mountaineer"
+                ],
+                [
+                    "Mystique"
+                ],
+                [
+                    "Sable"
+                ],
+                [
+                    "Topaz"
+                ],
+                [
+                    "Tracer"
+                ],
+                [
+                    "Villager"
+                ],
+                [
+                    "Zephyr"
+                ]
+            ]
+        },
+        "Merkur": {
+            "current": [],
+            "older": [
+                [
+                    "XR4Ti"
+                ]
+            ]
+        },
+        "Mobility+Ventures": {
+            "current": [],
+            "older": [
+                [
+                    "MV-1"
+                ]
+            ]
+        },
+        "Oldsmobile": {
+            "current": [],
+            "older": [
+                [
+                    "Achieva"
+                ],
+                [
+                    "Alero"
+                ],
+                [
+                    "Aurora"
+                ],
+                [
+                    "Bravada"
+                ],
+                [
+                    "Calais"
+                ],
+                [
+                    "Custom Cruiser",
+                    "Custom-Cruiser"
+                ],
+                [
+                    "Cutlass"
+                ],
+                [
+                    "Cutlass Calais",
+                    "Cutlass-Calais"
+                ],
+                [
+                    "Cutlass Ciera",
+                    "Cutlass-Ciera"
+                ],
+                [
+                    "Cutlass Salon",
+                    "Cutlass-Salon"
+                ],
+                [
+                    "Cutlass Supreme",
+                    "Cutlass-Supreme"
+                ],
+                [
+                    "Delta 88",
+                    "Delta-88"
+                ],
+                [
+                    "Eighty Eight",
+                    "Eighty-Eight"
+                ],
+                [
+                    "Firenza"
+                ],
+                [
+                    "Hurst/Olds",
+                    "Hurst-Olds"
+                ],
+                [
+                    "Intrigue"
+                ],
+                [
+                    "LSS"
+                ],
+                [
+                    "Ninety Eight",
+                    "Ninety-Eight"
+                ],
+                [
+                    "Omega"
+                ],
+                [
+                    "Regency"
+                ],
+                [
+                    "Silhouette"
+                ],
+                [
+                    "Toronado"
+                ]
+            ]
+        },
+        "Pagani": {
+            "current": [],
+            "older": [
+                [
+                    "Huayra"
+                ]
+            ]
+        },
+        "Panoz": {
+            "current": [],
+            "older": [
+                [
+                    "AIV Roadster",
+                    "AIV-Roadster"
+                ],
+                [
+                    "Esperante"
+                ]
+            ]
+        },
+        "Plymouth": {
+            "current": [],
+            "older": [
+                [
+                    "Acclaim"
+                ],
+                [
+                    "Breeze"
+                ],
+                [
+                    "Caravelle"
+                ],
+                [
+                    "Colt"
+                ],
+                [
+                    "Colt Vista",
+                    "Colt-Vista"
+                ],
+                [
+                    "Gran Fury",
+                    "Gran-Fury"
+                ],
+                [
+                    "Grand Voyager",
+                    "Grand-Voyager"
+                ],
+                [
+                    "Horizon"
+                ],
+                [
+                    "Laser"
+                ],
+                [
+                    "Neon"
+                ],
+                [
+                    "Prowler"
+                ],
+                [
+                    "Reliant"
+                ],
+                [
+                    "Sundance"
+                ],
+                [
+                    "Turismo"
+                ],
+                [
+                    "Voyager"
+                ]
+            ]
+        },
+        "Polestar": {
+            "current": [
+                [
+                    "2"
+                ]
+            ],
+            "older": [
+                [
+                    "1"
+                ]
+            ]
+        },
+        "Pontiac": {
+            "current": [],
+            "older": [
+                [
+                    "6000"
+                ],
+                [
+                    "Aztek"
+                ],
+                [
+                    "Bonneville"
+                ],
+                [
+                    "Fiero"
+                ],
+                [
+                    "Firebird"
+                ],
+                [
+                    "G3"
+                ],
+                [
+                    "G5"
+                ],
+                [
+                    "G6"
+                ],
+                [
+                    "G8"
+                ],
+                [
+                    "GTO"
+                ],
+                [
+                    "Grand Am",
+                    "Grand-Am"
+                ],
+                [
+                    "Grand Prix",
+                    "Grand-Prix"
+                ],
+                [
+                    "LeMans"
+                ],
+                [
+                    "Montana"
+                ],
+                [
+                    "Parisienne"
+                ],
+                [
+                    "Pursuit"
+                ],
+                [
+                    "Safari"
+                ],
+                [
+                    "Solstice"
+                ],
+                [
+                    "Sunbird"
+                ],
+                [
+                    "Sunfire"
+                ],
+                [
+                    "Torrent"
+                ],
+                [
+                    "Trans Sport",
+                    "Trans-Sport"
+                ],
+                [
+                    "Vibe"
+                ],
+                [
+                    "Wave"
+                ]
+            ]
+        },
+        "Rivian": {
+            "current": [
+                [
+                    "R1S"
+                ],
+                [
+                    "R1T"
+                ]
+            ],
+            "older": []
+        },
+        "Rolls-Royce": {
+            "current": [
+                [
+                    "Cullinan"
+                ],
+                [
+                    "Dawn"
+                ],
+                [
+                    "Ghost"
+                ],
+                [
+                    "Phantom"
+                ],
+                [
+                    "Wraith"
+                ]
+            ],
+            "older": [
+                [
+                    "Camargue"
+                ],
+                [
+                    "Corniche"
+                ],
+                [
+                    "Flying Spur",
+                    "Flying-Spur"
+                ],
+                [
+                    "Park Ward",
+                    "Park-Ward"
+                ],
+                [
+                    "Silver Dawn",
+                    "Silver-Dawn"
+                ],
+                [
+                    "Silver Seraph",
+                    "Silver-Seraph"
+                ],
+                [
+                    "Silver Spirit",
+                    "Silver-Spirit"
+                ],
+                [
+                    "Silver Spur",
+                    "Silver-Spur"
+                ]
+            ]
+        },
+        "Saab": {
+            "current": [],
+            "older": [
+                [
+                    "9-2X"
+                ],
+                [
+                    "9-3"
+                ],
+                [
+                    "9-4X"
+                ],
+                [
+                    "9-5"
+                ],
+                [
+                    "9-7X"
+                ],
+                [
+                    "900"
+                ],
+                [
+                    "9000"
+                ]
+            ]
+        },
+        "Saturn": {
+            "current": [],
+            "older": [
+                [
+                    "Astra"
+                ],
+                [
+                    "Aura"
+                ],
+                [
+                    "Ion"
+                ],
+                [
+                    "L-Series"
+                ],
+                [
+                    "Outlook"
+                ],
+                [
+                    "Relay"
+                ],
+                [
+                    "S-Series"
+                ],
+                [
+                    "Sky"
+                ],
+                [
+                    "VUE"
+                ]
+            ]
+        },
+        "Scion": {
+            "current": [
+                [
+                    "FR-S"
+                ],
+                [
+                    "iA"
+                ],
+                [
+                    "iM"
+                ],
+                [
+                    "iQ"
+                ],
+                [
+                    "tC"
+                ],
+                [
+                    "xB"
+                ]
+            ],
+            "older": [
+                [
+                    "xA"
+                ],
+                [
+                    "xD"
+                ]
+            ]
+        },
+        "Shelby": {
+            "current": [],
+            "older": [
+                [
+                    "Series 1",
+                    "Series-1"
+                ]
+            ]
+        },
+        "Smart": {
+            "current": [],
+            "older": [
+                [
+                    "Fortwo"
+                ]
+            ]
+        },
+        "Spyker": {
+            "current": [],
+            "older": [
+                [
+                    "C8"
+                ]
+            ]
+        },
+        "Sterling": {
+            "current": [],
+            "older": [
+                [
+                    "825"
+                ],
+                [
+                    "827"
+                ],
+                [
+                    "Bullet"
+                ]
+            ]
+        },
+        "Suzuki": {
+            "current": [],
+            "older": [
+                [
+                    "Aerio"
+                ],
+                [
+                    "Equator"
+                ],
+                [
+                    "Esteem"
+                ],
+                [
+                    "Forenza"
+                ],
+                [
+                    "Grand Vitara",
+                    "Grand-Vitara"
+                ],
+                [
+                    "Jimny"
+                ],
+                [
+                    "Kizashi"
+                ],
+                [
+                    "Reno"
+                ],
+                [
+                    "SX4"
+                ],
+                [
+                    "Samurai"
+                ],
+                [
+                    "Sidekick"
+                ],
+                [
+                    "Swift"
+                ],
+                [
+                    "Verona"
+                ],
+                [
+                    "Vitara"
+                ],
+                [
+                    "X-90"
+                ],
+                [
+                    "XL-7"
+                ]
+            ]
+        },
+        "Th%21nk": {
+            "current": [],
+            "older": [
+                [
+                    "City"
+                ]
+            ]
+        },
+        "VPG": {
+            "current": [],
+            "older": [
+                [
+                    "MV-1"
+                ]
+            ]
+        }
+    },
+    "newModels": {
+        "Alfa+Romeo": {
+            "current": [
+                [
+                    "Giulia"
+                ],
+                [
+                    "Stelvio"
+                ]
+            ],
+            "older": []
+        },
+        "Audi": {
+            "current": [
+                [
+                    "A3"
+                ],
+                [
+                    "A4"
+                ],
+                [
+                    "A5"
+                ],
+                [
+                    "A6"
+                ],
+                [
+                    "A7"
+                ],
+                [
+                    "A8"
+                ],
+                [
+                    "Q3"
+                ],
+                [
+                    "Q4 e-tron",
+                    "Q4-e-tron"
+                ],
+                [
+                    "Q5"
+                ],
+                [
+                    "Q7"
+                ],
+                [
+                    "Q8"
+                ],
+                [
+                    "R8"
+                ],
+                [
+                    "RS Q8",
+                    "RS-Q8"
+                ],
+                [
+                    "RS3"
+                ],
+                [
+                    "RS5"
+                ],
+                [
+                    "RS6"
+                ],
+                [
+                    "RS7"
+                ],
+                [
+                    "S3"
+                ],
+                [
+                    "S4"
+                ],
+                [
+                    "S5"
+                ],
+                [
+                    "S6"
+                ],
+                [
+                    "S7"
+                ],
+                [
+                    "S8"
+                ],
+                [
+                    "SQ5"
+                ],
+                [
+                    "SQ7"
+                ],
+                [
+                    "SQ8"
+                ],
+                [
+                    "TT"
+                ],
+                [
+                    "TT RS",
+                    "TT-RS"
+                ],
+                [
+                    "TTS"
+                ],
+                [
+                    "e-tron"
+                ],
+                [
+                    "e-tron GT",
+                    "e-tron-GT"
+                ],
+                [
+                    "e-tron S",
+                    "e-tron-S"
+                ]
+            ],
+            "older": []
+        },
+        "BMW": {
+            "current": [
+                [
+                    "2 Series",
+                    "2-Series"
+                ],
+                [
+                    "3 Series",
+                    "3-Series"
+                ],
+                [
+                    "4 Series",
+                    "4-Series"
+                ],
+                [
+                    "5 Series",
+                    "5-Series"
+                ],
+                [
+                    "7 Series",
+                    "7-Series"
+                ],
+                [
+                    "8 Series",
+                    "8-Series"
+                ],
+                [
+                    "M3"
+                ],
+                [
+                    "M4"
+                ],
+                [
+                    "M5"
+                ],
+                [
+                    "M8"
+                ],
+                [
+                    "X1"
+                ],
+                [
+                    "X2"
+                ],
+                [
+                    "X3"
+                ],
+                [
+                    "X3 M",
+                    "X3-M"
+                ],
+                [
+                    "X4"
+                ],
+                [
+                    "X4 M",
+                    "X4-M"
+                ],
+                [
+                    "X5"
+                ],
+                [
+                    "X5 M",
+                    "X5-M"
+                ],
+                [
+                    "X6"
+                ],
+                [
+                    "X6 M",
+                    "X6-M"
+                ],
+                [
+                    "X7"
+                ],
+                [
+                    "Z4"
+                ],
+                [
+                    "i4"
+                ],
+                [
+                    "iX"
+                ]
+            ],
+            "older": [
+                [
+                    "Alpina"
+                ],
+                [
+                    "M"
+                ]
+            ]
+        },
+        "Chrysler": {
+            "current": [
+                [
+                    "300"
+                ],
+                [
+                    "Pacifica"
+                ],
+                [
+                    "Voyager"
+                ]
+            ],
+            "older": []
+        },
+        "Dodge": {
+            "current": [
+                [
+                    "Challenger"
+                ],
+                [
+                    "Charger"
+                ],
+                [
+                    "Durango"
+                ]
+            ],
+            "older": []
+        },
+        "Fiat": {
+            "current": [
+                [
+                    "500"
+                ],
+                [
+                    "500X"
+                ]
+            ],
+            "older": []
+        },
+        "Hyundai": {
+            "current": [
+                [
+                    "Accent"
+                ],
+                [
+                    "Elantra"
+                ],
+                [
+                    "Elantra N",
+                    "Elantra-N"
+                ],
+                [
+                    "Ioniq"
+                ],
+                [
+                    "Ioniq 5",
+                    "Ioniq-5"
+                ],
+                [
+                    "Kona"
+                ],
+                [
+                    "Kona N",
+                    "Kona-N"
+                ],
+                [
+                    "Nexo"
+                ],
+                [
+                    "Palisade"
+                ],
+                [
+                    "Santa Cruz",
+                    "Santa-Cruz"
+                ],
+                [
+                    "Santa Fe",
+                    "Santa-Fe"
+                ],
+                [
+                    "Sonata"
+                ],
+                [
+                    "Tucson"
+                ],
+                [
+                    "Veloster"
+                ],
+                [
+                    "Veloster N",
+                    "Veloster-N"
+                ],
+                [
+                    "Venue"
+                ]
+            ],
+            "older": []
+        },
+        "Jaguar": {
+            "current": [
+                [
+                    "E-Pace"
+                ],
+                [
+                    "F-Pace"
+                ],
+                [
+                    "F-Type"
+                ],
+                [
+                    "I-Pace"
+                ],
+                [
+                    "XF"
+                ]
+            ],
+            "older": []
+        },
+        "Lexus": {
+            "current": [
+                [
+                    "ES"
+                ],
+                [
+                    "GX"
+                ],
+                [
+                    "IS"
+                ],
+                [
+                    "LC"
+                ],
+                [
+                    "LS"
+                ],
+                [
+                    "LX"
+                ],
+                [
+                    "NX"
+                ],
+                [
+                    "RC"
+                ],
+                [
+                    "RX"
+                ],
+                [
+                    "UX"
+                ]
+            ],
+            "older": []
+        },
+        "Mazda": {
+            "current": [
+                [
+                    "CX-30"
+                ],
+                [
+                    "CX-5"
+                ],
+                [
+                    "CX-50"
+                ],
+                [
+                    "CX-9"
+                ],
+                [
+                    "MX-30"
+                ],
+                [
+                    "Mazda3"
+                ],
+                [
+                    "Miata"
+                ]
+            ],
+            "older": []
+        },
+        "Mercedes-Benz": {
+            "current": [
+                [
+                    "A-Class"
+                ],
+                [
+                    "AMG GT",
+                    "AMG-GT"
+                ],
+                [
+                    "C-Class"
+                ],
+                [
+                    "CLA"
+                ],
+                [
+                    "CLS"
+                ],
+                [
+                    "E-Class"
+                ],
+                [
+                    "EQB"
+                ],
+                [
+                    "EQS"
+                ],
+                [
+                    "G-Class"
+                ],
+                [
+                    "GLA"
+                ],
+                [
+                    "GLB"
+                ],
+                [
+                    "GLC"
+                ],
+                [
+                    "GLE"
+                ],
+                [
+                    "GLS"
+                ],
+                [
+                    "Metris"
+                ],
+                [
+                    "S-Class"
+                ],
+                [
+                    "SL-Class"
+                ],
+                [
+                    "Sprinter"
+                ]
+            ],
+            "older": []
+        },
+        "Mitsubishi": {
+            "current": [
+                [
+                    "Eclipse Cross",
+                    "Eclipse-Cross"
+                ],
+                [
+                    "Mirage"
+                ],
+                [
+                    "Mirage G4",
+                    "Mirage-G4"
+                ],
+                [
+                    "Outlander"
+                ],
+                [
+                    "Outlander Sport",
+                    "Outlander-Sport"
+                ]
+            ],
+            "older": []
+        },
+        "Tesla": {
+            "current": [
+                [
+                    "Model 3",
+                    "Model-3"
+                ],
+                [
+                    "Model S",
+                    "Model-S"
+                ],
+                [
+                    "Model X",
+                    "Model-X"
+                ],
+                [
+                    "Model Y",
+                    "Model-Y"
+                ]
+            ],
+            "older": []
+        },
+        "Toyota": {
+            "current": [
+                [
+                    "4Runner"
+                ],
+                [
+                    "86"
+                ],
+                [
+                    "Avalon"
+                ],
+                [
+                    "C-HR"
+                ],
+                [
+                    "Camry"
+                ],
+                [
+                    "Corolla"
+                ],
+                [
+                    "Corolla Cross",
+                    "Corolla-Cross"
+                ],
+                [
+                    "GR Supra",
+                    "GR-Supra"
+                ],
+                [
+                    "GR86"
+                ],
+                [
+                    "Highlander"
+                ],
+                [
+                    "Mirai"
+                ],
+                [
+                    "Prius"
+                ],
+                [
+                    "Prius Prime",
+                    "Prius-Prime"
+                ],
+                [
+                    "RAV4"
+                ],
+                [
+                    "Sequoia"
+                ],
+                [
+                    "Sienna"
+                ],
+                [
+                    "Tacoma"
+                ],
+                [
+                    "Tundra"
+                ],
+                [
+                    "Venza"
+                ],
+                [
+                    "bZ4X"
+                ]
+            ],
+            "older": []
+        },
+        "Acura": {
+            "current": [
+                [
+                    "ILX"
+                ],
+                [
+                    "MDX"
+                ],
+                [
+                    "NSX"
+                ],
+                [
+                    "RDX"
+                ],
+                [
+                    "TLX"
+                ]
+            ],
+            "older": [
+                [
+                    "Integra"
+                ]
+            ]
+        },
+        "Buick": {
+            "current": [
+                [
+                    "Enclave"
+                ],
+                [
+                    "Encore"
+                ],
+                [
+                    "Encore GX",
+                    "Encore-GX"
+                ],
+                [
+                    "Envision"
+                ]
+            ],
+            "older": []
+        },
+        "Cadillac": {
+            "current": [
+                [
+                    "CT4"
+                ],
+                [
+                    "CT5"
+                ],
+                [
+                    "Escalade"
+                ],
+                [
+                    "Lyriq"
+                ],
+                [
+                    "XT4"
+                ],
+                [
+                    "XT5"
+                ],
+                [
+                    "XT6"
+                ]
+            ],
+            "older": []
+        },
+        "Chevrolet": {
+            "current": [
+                [
+                    "Blazer"
+                ],
+                [
+                    "Bolt EUV",
+                    "Bolt-EUV"
+                ],
+                [
+                    "Bolt EV",
+                    "Bolt-EV"
+                ],
+                [
+                    "Camaro"
+                ],
+                [
+                    "Colorado"
+                ],
+                [
+                    "Corvette"
+                ],
+                [
+                    "Cruze"
+                ],
+                [
+                    "Equinox"
+                ],
+                [
+                    "Express"
+                ],
+                [
+                    "Malibu"
+                ],
+                [
+                    "Silverado 1500",
+                    "Silverado-1500"
+                ],
+                [
+                    "Silverado 2500HD",
+                    "Silverado-2500HD"
+                ],
+                [
+                    "Silverado 3500HD",
+                    "Silverado-3500HD"
+                ],
+                [
+                    "Spark"
+                ],
+                [
+                    "Suburban"
+                ],
+                [
+                    "Tahoe"
+                ],
+                [
+                    "TrailBlazer"
+                ],
+                [
+                    "Traverse"
+                ],
+                [
+                    "Trax"
+                ]
+            ],
+            "older": []
+        },
+        "Ford": {
+            "current": [
+                [
+                    "Bronco"
+                ],
+                [
+                    "Bronco Sport",
+                    "Bronco-Sport"
+                ],
+                [
+                    "E-Transit"
+                ],
+                [
+                    "EcoSport"
+                ],
+                [
+                    "Econoline"
+                ],
+                [
+                    "Edge"
+                ],
+                [
+                    "Escape"
+                ],
+                [
+                    "Expedition"
+                ],
+                [
+                    "Expedition MAX",
+                    "Expedition-MAX"
+                ],
+                [
+                    "Explorer"
+                ],
+                [
+                    "F-150"
+                ],
+                [
+                    "F-150 Lightning",
+                    "F-150-Lightning"
+                ],
+                [
+                    "F-250"
+                ],
+                [
+                    "F-350"
+                ],
+                [
+                    "F-450"
+                ],
+                [
+                    "F-550"
+                ],
+                [
+                    "Flex"
+                ],
+                [
+                    "Maverick"
+                ],
+                [
+                    "Mustang"
+                ],
+                [
+                    "Mustang Mach-E",
+                    "Mustang-Mach-E"
+                ],
+                [
+                    "Ranger"
+                ],
+                [
+                    "Taurus"
+                ],
+                [
+                    "Transit"
+                ],
+                [
+                    "Transit Connect",
+                    "Transit-Connect"
+                ]
+            ],
+            "older": [
+                [
+                    "GT"
+                ]
+            ]
+        },
+        "GMC": {
+            "current": [
+                [
+                    "Acadia"
+                ],
+                [
+                    "Canyon"
+                ],
+                [
+                    "Hummer EV",
+                    "Hummer-EV"
+                ],
+                [
+                    "Savana"
+                ],
+                [
+                    "Sierra 1500",
+                    "Sierra-1500"
+                ],
+                [
+                    "Sierra 2500HD",
+                    "Sierra-2500HD"
+                ],
+                [
+                    "Sierra 3500HD",
+                    "Sierra-3500HD"
+                ],
+                [
+                    "Terrain"
+                ],
+                [
+                    "Yukon"
+                ],
+                [
+                    "Yukon XL",
+                    "Yukon-XL"
+                ]
+            ],
+            "older": []
+        },
+        "Genesis": {
+            "current": [
+                [
+                    "G70"
+                ],
+                [
+                    "G80"
+                ],
+                [
+                    "G90"
+                ],
+                [
+                    "GV60"
+                ],
+                [
+                    "GV70"
+                ],
+                [
+                    "GV80"
+                ]
+            ],
+            "older": []
+        },
+        "Honda": {
+            "current": [
+                [
+                    "Accord"
+                ],
+                [
+                    "CR-V"
+                ],
+                [
+                    "Civic"
+                ],
+                [
+                    "HR-V"
+                ],
+                [
+                    "Insight"
+                ],
+                [
+                    "Odyssey"
+                ],
+                [
+                    "Passport"
+                ],
+                [
+                    "Pilot"
+                ],
+                [
+                    "Ridgeline"
+                ]
+            ],
+            "older": [
+                [
+                    "City"
+                ]
+            ]
+        },
+        "Infiniti": {
+            "current": [
+                [
+                    "Q50"
+                ],
+                [
+                    "Q60"
+                ],
+                [
+                    "QX50"
+                ],
+                [
+                    "QX55"
+                ],
+                [
+                    "QX60"
+                ],
+                [
+                    "QX80"
+                ]
+            ],
+            "older": []
+        },
+        "Jeep": {
+            "current": [
+                [
+                    "Cherokee"
+                ],
+                [
+                    "Compass"
+                ],
+                [
+                    "Gladiator"
+                ],
+                [
+                    "Grand Cherokee",
+                    "Grand-Cherokee"
+                ],
+                [
+                    "Grand Wagoneer",
+                    "Grand-Wagoneer"
+                ],
+                [
+                    "Renegade"
+                ],
+                [
+                    "Wagoneer"
+                ],
+                [
+                    "Wrangler"
+                ]
+            ],
+            "older": []
+        },
+        "Kia": {
+            "current": [
+                [
+                    "Carnival"
+                ],
+                [
+                    "EV6"
+                ],
+                [
+                    "Forte"
+                ],
+                [
+                    "K5"
+                ],
+                [
+                    "Niro"
+                ],
+                [
+                    "Niro EV",
+                    "Niro-EV"
+                ],
+                [
+                    "Optima"
+                ],
+                [
+                    "Rio"
+                ],
+                [
+                    "Seltos"
+                ],
+                [
+                    "Sorento"
+                ],
+                [
+                    "Soul"
+                ],
+                [
+                    "Sportage"
+                ],
+                [
+                    "Stinger"
+                ],
+                [
+                    "Telluride"
+                ]
+            ],
+            "older": []
+        },
+        "Land+Rover": {
+            "current": [
+                [
+                    "Defender"
+                ],
+                [
+                    "Discovery"
+                ],
+                [
+                    "Discovery Sport",
+                    "Discovery-Sport"
+                ],
+                [
+                    "Range Rover",
+                    "Range-Rover"
+                ],
+                [
+                    "Range Rover Evoque",
+                    "Range-Rover-Evoque"
+                ],
+                [
+                    "Range Rover Sport",
+                    "Range-Rover-Sport"
+                ],
+                [
+                    "Range Rover Velar",
+                    "Range-Rover-Velar"
+                ]
+            ],
+            "older": []
+        },
+        "Lincoln": {
+            "current": [
+                [
+                    "Aviator"
+                ],
+                [
+                    "Corsair"
+                ],
+                [
+                    "Nautilus"
+                ],
+                [
+                    "Navigator"
+                ],
+                [
+                    "Navigator L",
+                    "Navigator-L"
+                ]
+            ],
+            "older": []
+        },
+        "Mini": {
+            "current": [
+                [
+                    "Cooper"
+                ],
+                [
+                    "Cooper Clubman",
+                    "Cooper-Clubman"
+                ],
+                [
+                    "Cooper Countryman",
+                    "Cooper-Countryman"
+                ]
+            ],
+            "older": [
+                [
+                    "Cooper Coupe",
+                    "Cooper-Coupe"
+                ],
+                [
+                    "Cooper Roadster",
+                    "Cooper-Roadster"
+                ]
+            ]
+        },
+        "Nissan": {
+            "current": [
+                [
+                    "Altima"
+                ],
+                [
+                    "Armada"
+                ],
+                [
+                    "Frontier"
+                ],
+                [
+                    "GT-R"
+                ],
+                [
+                    "Kicks"
+                ],
+                [
+                    "Leaf"
+                ],
+                [
+                    "Maxima"
+                ],
+                [
+                    "Murano"
+                ],
+                [
+                    "Pathfinder"
+                ],
+                [
+                    "Rogue"
+                ],
+                [
+                    "Rogue Sport",
+                    "Rogue-Sport"
+                ],
+                [
+                    "Sentra"
+                ],
+                [
+                    "Titan"
+                ],
+                [
+                    "Titan XD",
+                    "Titan-XD"
+                ],
+                [
+                    "Versa"
+                ],
+                [
+                    "Versa Note",
+                    "Versa-Note"
+                ],
+                [
+                    "Z"
+                ]
+            ],
+            "older": [
+                [
+                    "Qashqai"
+                ]
+            ]
+        },
+        "Porsche": {
+            "current": [],
+            "older": []
+        },
+        "Ram": {
+            "current": [
+                [
+                    "1500"
+                ],
+                [
+                    "2500"
+                ],
+                [
+                    "3500"
+                ],
+                [
+                    "4500"
+                ],
+                [
+                    "5500"
+                ],
+                [
+                    "ProMaster"
+                ],
+                [
+                    "ProMaster City",
+                    "ProMaster-City"
+                ]
+            ],
+            "older": []
+        },
+        "Subaru": {
+            "current": [
+                [
+                    "Ascent"
+                ],
+                [
+                    "BRZ"
+                ],
+                [
+                    "Crosstrek"
+                ],
+                [
+                    "Forester"
+                ],
+                [
+                    "Impreza"
+                ],
+                [
+                    "Legacy"
+                ],
+                [
+                    "Outback"
+                ],
+                [
+                    "Solterra"
+                ],
+                [
+                    "WRX"
+                ]
+            ],
+            "older": []
+        },
+        "Volvo": {
+            "current": [
+                [
+                    "C40"
+                ],
+                [
+                    "S60"
+                ],
+                [
+                    "S90"
+                ],
+                [
+                    "V60"
+                ],
+                [
+                    "V90"
+                ],
+                [
+                    "XC40"
+                ],
+                [
+                    "XC60"
+                ],
+                [
+                    "XC90"
+                ]
+            ],
+            "older": []
+        },
+        "AM+General": {
+            "current": [],
+            "older": []
+        },
+        "Aston+Martin": {
+            "current": [
+                [
+                    "DB11"
+                ],
+                [
+                    "DBX"
+                ],
+                [
+                    "V12 Vantage",
+                    "V12-Vantage"
+                ],
+                [
+                    "V8 Vantage",
+                    "V8-Vantage"
+                ]
+            ],
+            "older": [
+                [
+                    "DBS"
+                ]
+            ]
+        },
+        "Bugatti": {
+            "current": [],
+            "older": []
+        },
+        "Lotus": {
+            "current": [],
+            "older": []
+        },
+        "Pontiac": {
+            "current": [],
+            "older": []
+        },
+        "Volkswagen": {
+            "current": [
+                [
+                    "Arteon"
+                ],
+                [
+                    "Atlas"
+                ],
+                [
+                    "Golf"
+                ],
+                [
+                    "ID.4",
+                    "ID-4"
+                ],
+                [
+                    "Jetta"
+                ],
+                [
+                    "Passat"
+                ],
+                [
+                    "Taos"
+                ],
+                [
+                    "Tiguan"
+                ]
+            ],
+            "older": [
+                [
+                    "GTI"
+                ]
+            ]
+        },
+        "American+Motors": {
+            "current": [],
+            "older": []
+        },
+        "Delorean": {
+            "current": [],
+            "older": []
+        },
+        "Avanti": {
+            "current": [],
+            "older": []
+        },
+        "Datsun": {
+            "current": [],
+            "older": []
+        },
+        "Daihatsu": {
+            "current": [],
+            "older": []
+        },
+        "Maserati": {
+            "current": [
+                [
+                    "Ghibli"
+                ],
+                [
+                    "GranTurismo"
+                ],
+                [
+                    "Levante"
+                ],
+                [
+                    "MC20"
+                ],
+                [
+                    "Quattroporte"
+                ]
+            ],
+            "older": []
+        },
+        "Mclaren": {
+            "current": [
+                [
+                    "720S"
+                ],
+                [
+                    "765LT"
+                ],
+                [
+                    "GT"
+                ]
+            ],
+            "older": []
+        },
+        "Mercury": {
+            "current": [],
+            "older": []
+        },
+        "Lucid": {
+            "current": [
+                [
+                    "Air"
+                ]
+            ],
+            "older": []
+        },
+        "Oldsmobile": {
+            "current": [],
+            "older": []
+        },
+        "Saab": {
+            "current": [],
+            "older": []
+        },
+        "Rivian": {
+            "current": [
+                [
+                    "R1S"
+                ],
+                [
+                    "R1T"
+                ]
+            ],
+            "older": []
+        },
+        "Saturn": {
+            "current": [],
+            "older": []
+        },
+        "Smart": {
+            "current": [],
+            "older": []
+        },
+        "Pagani": {
+            "current": [],
+            "older": []
+        },
+        "Scion": {
+            "current": [],
+            "older": []
+        },
+        "Panoz": {
+            "current": [],
+            "older": []
+        },
+        "Spyker": {
+            "current": [],
+            "older": []
+        },
+        "Hummer": {
+            "current": [],
+            "older": []
+        },
+        "Lamborghini": {
+            "current": [
+                [
+                    "Aventador"
+                ],
+                [
+                    "Huracan"
+                ],
+                [
+                    "Urus"
+                ]
+            ],
+            "older": []
+        },
+        "Fisker": {
+            "current": [],
+            "older": []
+        },
+        "Bentley": {
+            "current": [
+                [
+                    "Bentayga"
+                ],
+                [
+                    "Continental"
+                ],
+                [
+                    "Flying Spur",
+                    "Flying-Spur"
+                ]
+            ],
+            "older": []
+        },
+        "Ferrari": {
+            "current": [
+                [
+                    "812 GTS",
+                    "812-GTS"
+                ],
+                [
+                    "F8 Spider",
+                    "F8-Spider"
+                ],
+                [
+                    "F8 Tributo",
+                    "F8-Tributo"
+                ],
+                [
+                    "Roma"
+                ],
+                [
+                    "SF90"
+                ],
+                [
+                    "SF90 Stradale",
+                    "SF90-Stradale"
+                ]
+            ],
+            "older": []
+        },
+        "Eagle": {
+            "current": [],
+            "older": []
+        },
+        "Daewoo": {
+            "current": [],
+            "older": []
+        },
+        "Laforza": {
+            "current": [],
+            "older": []
+        },
+        "Karma": {
+            "current": [
+                [
+                    "GS-6"
+                ]
+            ],
+            "older": []
+        },
+        "Maybach": {
+            "current": [],
+            "older": []
+        },
+        "Geo": {
+            "current": [],
+            "older": []
+        },
+        "Isuzu": {
+            "current": [],
+            "older": []
+        },
+        "Merkur": {
+            "current": [],
+            "older": []
+        },
+        "Plymouth": {
+            "current": [],
+            "older": []
+        },
+        "Shelby": {
+            "current": [],
+            "older": []
+        },
+        "Rolls-Royce": {
+            "current": [
+                [
+                    "Cullinan"
+                ],
+                [
+                    "Ghost"
+                ],
+                [
+                    "Phantom"
+                ]
+            ],
+            "older": []
+        },
+        "Sterling": {
+            "current": [],
+            "older": []
+        },
+        "Mobility+Ventures": {
+            "current": [],
+            "older": []
+        },
+        "Polestar": {
+            "current": [
+                [
+                    "2"
+                ]
+            ],
+            "older": []
+        },
+        "Freightliner": {
+            "current": [],
+            "older": []
+        },
+        "Suzuki": {
+            "current": [],
+            "older": []
+        },
+        "Th%21nk": {
+            "current": [],
+            "older": []
+        },
+        "VPG": {
+            "current": [],
+            "older": []
+        }
+    }
+}
